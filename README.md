@@ -1,9 +1,8 @@
-# 💻 Chromebook Dashboard
+# 💻 Sales Horizon
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mr-adonis-jimenez-sales-horizon.streamlit.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mr-adonis-jimenez/sales-horizon)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mr-adonis-jimenez-chromebook-sales-forecast-dashboard.streamlit.app)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mr-adonis-jimenez/chromebook-sales-forecast-dashboard)
-
-An interactive **Chromebook Dashboard** developed using Python and Streamlit. The app forecasts future sales for multiple products using the **Prophet** model, supports **auto-refresh retraining**, and integrates seamlessly with **Google Drive (local sync)**, **OneDrive**, **Dropbox**, **Amazon Drive**, **Mega**, **Nextcloud**, **Seafile**, or **Syncthing**
+An interactive dashboard developed using Python and Streamlit. The app forecasts future sales for multiple products using the **Prophet** model, supports **auto-refresh retraining**, and integrates seamlessly with **Google Drive (local sync)**, **OneDrive**, **Dropbox**, **Amazon Drive**, **Mega**, **Nextcloud**, **Seafile**, or **Syncthing**
 
 ---
 
@@ -40,7 +39,7 @@ It reads real or sample sales data from a synced Google Drive folder, visualizes
 
 ## 🚀 Live Demo
 
-🔗 **[Launch App on Streamlit Cloud](https://mr-adonis-jimenez-chromebook-sales-forecast-dashboard.streamlit.app)**
+🔗 **[Launch App on Streamlit Cloud](https://mr-adonis-jimenez-chromebook-sales-horizon.streamlit.app)**
 
 If the live demo doesn’t load, clone and run it locally (instructions below).
 
@@ -59,7 +58,7 @@ If the live demo doesn’t load, clone and run it locally (instructions below).
 ## 🎯 CORE MISSION
 
 **Purpose:**  
-Continuously **measure, predict, and price risk in real time** so capital can be deployed (or pulled back) intelligently.
+Continuously **measure, predict, and price risk in real time with an automated risk co-pilot** for modern finance 🤖✈️ so capital can be deployed (or pulled back) intelligently
 
 **How it works:**
 
@@ -71,9 +70,6 @@ Continuously **measure, predict, and price risk in real time** so capital can be
   - Throttle exposure
   - Alert compliance
   - And more...
-
-> This is not just *“dashboarding.”*  
-> It is an **automated risk co-pilot** for modern finance. 🤖✈️
 
 ---
 
