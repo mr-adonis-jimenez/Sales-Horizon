@@ -1,3 +1,10 @@
+## Run Locally
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python -m streamlit run app.py
 # 📈 Sales Horizon
 
 An intuitive sales forecasting dashboard built with Python and Streamlit. Sales Horizon provides powerful time series forecasting capabilities with an easy-to-use interface for visualizing sales trends and predicting future performance.
